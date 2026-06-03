@@ -124,6 +124,8 @@ See [PLUGINS.md](PLUGINS.md) for the full index.
 | **Image Local Tools** *(this repo)* | [hermes-image-local-tools](https://github.com/SkyLaTry/hermes-image-local-tools) |
 
 ---
+This plugin is still in an early, experimental phase. Behavior and configuration may change between releases. If you hit bugs or something doesn’t work as expected, please [open an issue](https://github.com/SkyLaTry/hermes-image-local-tools/issues) on this repository — feedback and reports help a lot.
+---
 
 ## License
 
