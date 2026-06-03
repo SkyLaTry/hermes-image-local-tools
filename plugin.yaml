@@ -1,0 +1,13 @@
+name: local-tools
+manifest_version: 1
+version: "1.3.0"
+description: >
+  Local image generation for Hermes: ComfyUI backend (SD 1.5, SDXL, Flux Dev),
+  agent tools (lemonade_manage, comfyui_manage), and LLM schema guidance.
+author: SkyLaTry
+kind: standalone
+provides_hooks:
+  - pre_llm_call
+provides_tools:
+  - lemonade_manage
+  - comfyui_manage

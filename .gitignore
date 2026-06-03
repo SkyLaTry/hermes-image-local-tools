@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Secrets and local config (never commit)
+.env
+.env.*
+*.pem
+**/credentials.json
+*.local.yaml
+*.local.yml
+
+# Plugin runtime artifacts
+downloads.db
+*.db-journal
+
+# Dev-only (monorepo tests, accidental nested repos)
+tests/
+**/tests/
+test_*.py
+run_plugin_tests.py
+.git/
+_vendor/
+hermes_compat/
+cross_platform.py
+private/
+publish-groups.yaml
+plugins-catalog.full.json
+

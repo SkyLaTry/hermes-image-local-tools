@@ -1,0 +1,125 @@
+SkyLaTry Shared Source License 1.0
+
+Copyright (c) 2026 SkyLaTry (https://github.com/SkyLaTry)
+
+IMPORTANT: This is not an OSI-approved open source license. Source is published
+for transparency and non-commercial use. Commercial use above the revenue threshold
+requires attribution and revenue sharing as described below.
+
+For a plain-language summary, see LICENSING.md in this repository.
+
+---
+
+1. Definitions
+
+   "Software" means the source code, documentation, configuration, and other files
+   distributed under this license in this repository.
+
+   "You" means any individual or legal entity exercising permissions granted here.
+
+   "Attribution" means keeping all copyright and license notices in the Software,
+   and in every public distribution, documentation page, UI, or marketing material
+   that features the Software or a Derivative, a prominent notice equivalent to:
+
+       Uses code from SkyLaTry Hermes plugins
+       https://github.com/SkyLaTry/<repository-name>
+       Copyright (c) SkyLaTry — licensed under the SkyLaTry Shared Source License
+
+   "Derivative" means any modified version, fork, merged work, plugin, service,
+   or product that is based on or incorporates any part of the Software.
+
+   "Commercial Use" means use of the Software or a Derivative in connection with
+   a product, service, or activity that generates or is intended to generate
+   revenue, fees, donations tied to the offering, advertising revenue, or other
+   commercial advantage.
+
+   "Attributable Revenue" means gross revenue in a calendar year from products,
+   services, subscriptions, support, or offerings whose value materially depends
+   on the Software or a Derivative. Exclude unrelated revenue that would exist
+   without the Software.
+
+   "Revenue Threshold" means USD 25,000 of Attributable Revenue in a calendar year.
+
+   "Revenue Share Rate" means ten percent (10%) of Attributable Revenue above the
+   Revenue Threshold in that calendar year.
+
+2. Grant for non-commercial use
+
+   Subject to Sections 3–8, SkyLaTry grants You a royalty-free, worldwide,
+   non-exclusive license to use, copy, modify, and distribute the Software and
+   Derivatives for non-commercial purposes only.
+
+3. Attribution (required for all use)
+
+   You must provide Attribution for any use, copy, modification, public display,
+   or distribution of the Software or a Derivative, whether commercial or
+   non-commercial.
+
+4. Commercial use
+
+   4.1 Below the Revenue Threshold
+       Commercial Use is permitted only if You comply with Section 3 (Attribution)
+       and You do not misrepresent origin or authorship.
+
+   4.2 At or above the Revenue Threshold
+       If Your Attributable Revenue in a calendar year meets or exceeds the
+       Revenue Threshold, You must, in addition to Attribution:
+
+       (a) notify SkyLaTry at the contact address in LICENSING.md within 30 days
+           of crossing the threshold;
+       (b) pay the Revenue Share Rate on Attributable Revenue above the Revenue
+           Threshold for that calendar year;
+       (c) provide reasonable written reporting of Attributable Revenue upon
+           request, no more than once per calendar quarter.
+
+       Until payment and reporting obligations for the applicable period are met,
+       Your commercial rights under this license are suspended for that period.
+
+   4.3 Alternative commercial license
+       SkyLaTry may offer a separate written commercial license with different
+       terms. Contact details are in LICENSING.md.
+
+5. Restrictions
+
+   You may not:
+   (a) remove or obscure copyright or license notices;
+   (b) sublicense the Software under terms that remove Attribution or revenue-
+       sharing obligations;
+   (c) use SkyLaTry names, logos, or trademarks except as required for Attribution
+       or with prior written permission;
+   (d) hold SkyLaTry liable for Your Commercial Use or Derivatives.
+
+6. Distribution of derivatives
+
+   If You distribute a Derivative, You must:
+   (a) distribute it under this license;
+   (b) include this license and LICENSING.md;
+   (c) document changes You made;
+   (d) preserve Attribution to SkyLaTry.
+
+7. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+   SKYLATRY BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN
+   AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. Termination
+
+   This license terminates automatically if You breach Sections 3–6 and do not
+   cure the breach within 30 days of written notice. Sections 5, 7, and 9
+   survive termination.
+
+9. Governing law
+
+   This license is governed by the laws applicable at SkyLaTry's principal place
+   of business, without regard to conflict-of-law rules.
+
+---
+
+Adjustable terms for SkyLaTry (also described in LICENSING.md):
+  Revenue Threshold .............. USD 25,000 / calendar year (Attributable Revenue)
+  Revenue Share Rate ............. 10% of Attributable Revenue above the threshold
+  Licensor ....................... SkyLaTry
